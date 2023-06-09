@@ -1,0 +1,15 @@
+schema: '2.0'
+stages:
+  config:
+    cmd: python train.py
+    deps:
+    - path: Ethos_Dataset_Binary.csv
+      md5: d475a0a4e09db8d6a405b6c9fb962da3
+      size: 123919
+    - path: train.py
+      md5: 678618d3d89545e0c5eaa8defa66430b
+      size: 3287
+    outs:
+    - path: models_output/model_v1.joblib
+      md5: fb92e9fd2c08ad6424ddc14fe1a41d0d
+      size: 546505

@@ -1,0 +1,80 @@
+Loading data
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 400, 'max_depth': 5, 'min_samples_split': 7, 'min_samples_leaf': 7}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 700, 'max_depth': 2, 'min_samples_split': 2, 'min_samples_leaf': 8}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Creating model checkpoint
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 800, 'max_depth': 8, 'min_samples_split': 8, 'min_samples_leaf': 2}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Creating model checkpoint
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 400, 'max_depth': 4, 'min_samples_split': 3, 'min_samples_leaf': 1}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Creating model checkpoint
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 800, 'max_depth': 1, 'min_samples_split': 2, 'min_samples_leaf': 9}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Creating model checkpoint
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 400, 'max_depth': 7, 'min_samples_split': 10, 'min_samples_leaf': 8}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Creating model checkpoint
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 600, 'max_depth': 3, 'min_samples_split': 10, 'min_samples_leaf': 1}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Creating model checkpoint

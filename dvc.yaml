@@ -1,0 +1,8 @@
+stages:
+  config:
+    cmd: python train.py
+    deps:
+    - Ethos_Dataset_Binary.csv
+    - train.py
+    outs:
+    - models_output/model_v1.joblib
