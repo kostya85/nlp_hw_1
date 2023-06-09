@@ -11,5 +11,5 @@ stages:
       size: 3287
     outs:
     - path: models_output/model_v1.joblib
-      md5: fb92e9fd2c08ad6424ddc14fe1a41d0d
-      size: 546505
+      md5: c92c21c66b32e4d76f34f3eb44dd9815
+      size: 1048665

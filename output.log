@@ -78,3 +78,14 @@ Model score on training data: 0.8308270676691729
 Model score on test data: 0.86
 Saving model
 Creating model checkpoint
+Loading data
+data shape: (998, 2)
+Preprocessing data
+Optimizing hyperparameters
+Best hyperparameters: {'n_estimators': 800, 'max_depth': 8, 'min_samples_split': 3, 'min_samples_leaf': 5}
+Best score: 0.86
+Training model with optimal hyperparameters
+Model score on training data: 0.8308270676691729
+Model score on test data: 0.86
+Saving model
+Creating model checkpoint
